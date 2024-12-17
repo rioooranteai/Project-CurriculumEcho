@@ -1,7 +1,3 @@
-Berikut adalah *technical report* yang diperbarui dengan tambahan informasi mengenai aktivitas saat ini seperti *hyperparameter tuning* dan pembaruan laporan.
-
----
-
 # **Technical Report: Analisis Kurikulum Merdeka Menggunakan Clustering dan BERTopic**
 
 ---
