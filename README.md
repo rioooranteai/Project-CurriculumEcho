@@ -12,7 +12,6 @@ Saat ini, proyek sedang fokus pada dua aktivitas utama:
 
 2. **Pembaruan Laporan**:  
    - Memperbarui laporan dengan hasil evaluasi terbaru dari proses *hyperparameter tuning*.  
-   - Menyusun wawasan yang dihasilkan untuk pemangku kebijakan pendidikan.
 
 ---
 
